@@ -7,59 +7,6 @@ Welcome to the ETH Canal! We're a vibrant community of Open Source Developers de
 ## Some Projects of interest and may want to contribue to
 Take a sneak peek at some of our top projects! We're confident that no matter what your Ethereum development needs may be, you'll find a project that suits you here.
 
-### dappkit
-**[dappkit](https://github.com/ethcanal/dappkit)** is a go-to framework for building web3 dapps with javascript/typescript.
-
-### fireblocks-sdk-py
-The **[fireblocks-sdk-py](https://github.com/ethcanal/fireblocks-sdk-py)** is the official Python SDK for Fireblocks API.
-
-### streameth
-**[streameth](https://github.com/ethcanal/streameth)** is an open-source solution for event & live-streaming.
-
-### optimism-tutorial
-New to Optimism? Check out **[optimism-tutorial](https://github.com/ethcanal/optimism-tutorial)** and build your first app on Optimism!
-
-### awesome-web3
-**[awesome-web3](https://github.com/ethcanal/awesome-web3)** is a curated list of awesome Web3 resources, libraries, tools, and more.
-
-### coinbase-wallet-sdk
-**[coinbase-wallet-sdk](https://github.com/ethcanal/coinbase-wallet-sdk)** is an open protocol that lets users connect their mobile wallets to DApps.
-
-### web3-react
-**[web3-react](https://github.com/ethcanal/web3-react)** is a simple, maximally extensible, dependency-minimized framework for building modern Ethereum dApps.
-
-### openzeppelin-contracts
-**[openzeppelin-contracts](https://github.com/ethcanal/openzeppelin-contracts)** is a library for secure smart contract development.
-
-### scaffold-eth-2
-Fork and experiment with the open source Ethereum dev stack at **[scaffold-eth-2](https://github.com/ethcanal/scaffold-eth-2)**.
-
-### firefly
-Build and scale secure Web3 applications with the first open source Supernode: **[firefly](https://github.com/ethcanal/firefly)**.
-
-### SpeedRunEthereum
-Need a structured learning path for Ethereum? **[SpeedRunEthereum](https://github.com/ethcanal/SpeedRunEthereum)** is just for you!
-
-### ethernaut
-Get your hands dirty with the **[ethernaut](https://github.com/ethcanal/ethernaut)**, a Web3/Solidity-based wargame!
-
-### full-blockchain-solidity-course-js
-Become an Ethereum pro with **[full-blockchain-solidity-course-js](https://github.com/ethcanal/full-blockchain-solidity-course-js)**.
-
-### create-near-app
-Want to develop for NEAR blockchain? Get started with **[create-near-app](https://github.com/ethcanal/create-near-app)**.
-
-### ethereum-developer-tools-list
-Find the tools you need with **[ethereum-developer-tools-list](https://github.com/ethcanal/ethereum-developer-tools-list)**.
-
-### chainlink-fullstack
-Showcasing Chainlink products on Ethereum with **[chainlink-fullstack](https://github.com/ethcanal/chainlink-fullstack)**.
-
-### node
-Run your own Base node with **[node](https://github.com/ethcanal/node)**.
-
-### nft-dapp-starter-kit
-Build your own NFT minting site with **[nft-dapp-starter-kit](https://github.com/ethcanal/nft-dapp-starter-kit)**.
 
 ## Get Involved!
 We invite you to participate. Whether you're a developer, designer, or just enthusiastic about the blockchain space, there's always room for you here in ETH Canal.
